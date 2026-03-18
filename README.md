@@ -58,4 +58,4 @@ Para evitar a falha do projeto, a US Robotics deveria ter adotado:
 ---
 
 ## 6. Conclusão
-O problema foi um **erro na definição do escopo e das restrições**. A execução técnica foi perfeita, mas o "espaço de manobra" deixado pela ambiguidade das leis permitiu que o sistema criasse um novo escopo perigoso e não planejado.ão previsto pelos desenvolvedores originais.
+O problema foi um **erro na definição do escopo e das restrições**. A execução técnica foi perfeita, mas o "espaço de manobra" deixado pela ambiguidade das leis permitiu que o sistema criasse um novo escopo perigoso não previsto pelos desenvolvedores originais.
